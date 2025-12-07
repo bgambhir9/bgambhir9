@@ -89,20 +89,19 @@ A smart automation tool that converts long-form content into short clips using A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhipatel5473&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhrat56&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhipatel5473&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhipatel5473&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhrat56&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhrat56&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhipatel5473&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhipatel5473&theme=tokyonight&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhrat56&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhrat56&theme=tokyonight&utcOffset=5" />
 </p>
 ---
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bhrat56&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D" />
