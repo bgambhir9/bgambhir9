@@ -86,12 +86,21 @@ A smart automation tool that converts long-form content into short clips using A
 
 # 🔥 **GitHub Analytics & Stats**
 
-## ⭐ GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhrat56&show_icons=true&theme=radical&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhrat56&layout=compact&theme=radical&hide_border=false" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhipatel5473&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhipatel5473&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhipatel5473&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhipatel5473&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhipatel5473&theme=tokyonight&utcOffset=5" />
+</p>
 ---
 
 ## 🔥 Streak Stats
